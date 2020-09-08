@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="get_courses">https://husquiz-services-backend.herokuapp.com/courses</string>
+    <string name="add_course">https://husquiz-services-backend.herokuapp.com/addcourse</string>
+    <string name="get_quizzes">https://husquiz-services-backend.herokuapp.com/quizzes</string>
+    <string name="add_quiz">https://husquiz-services-backend.herokuapp.com/addquiz</string>
+    <string name="get_flashcards">https://husquiz-services-backend.herokuapp.com/flashcards</string>
+    <string name="add_flashcard">https://husquiz-services-backend.herokuapp.com/addflashcard</string>
+    <string name="get_login_info">https://husquiz-services-backend.herokuapp.com/login</string>
+    <string name="add_login_info">https://husquiz-services-backend.herokuapp.com/register</string>
+</resources>

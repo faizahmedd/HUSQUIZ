@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HUSQUIZ</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="LOGGEDIN">loggedin</string>
+    <string name="LOGIN_PREFS">edu.tacoma.uw.HUSQUIZ1.PREFS</string>
+</resources>
