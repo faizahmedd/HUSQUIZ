@@ -38,7 +38,7 @@ Authors
 •	Kerolos Adib - Co-Creator - Team 8
 
 License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
 
 Acknowledgments
 •	Quizlet
